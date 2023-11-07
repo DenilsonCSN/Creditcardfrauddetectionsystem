@@ -14,7 +14,7 @@ The importance of this project is to tackle the issue by designing a system that
 
 <h2>Environments Used </h2>
 
-- <b>GoogleCollab</b> (21H2)
+- <b>GoogleColab</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
